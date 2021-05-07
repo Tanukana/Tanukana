@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, specifically Fullstack!
 - 🌱 I’m currently learning HTML / CSS and Javascript.
 - 💞️ I’m looking to collaborate on Beginner Friendly Projects!
-- 📫 How to reach me - My email is: bobabeach2@gmail.com
+- 📫 How to reach me - My email is: tonywu.fs@gmail.com
 
 <!---
 Tanukana/Tanukana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
