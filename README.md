@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on Beginner Friendly Projects!
 - 📫 How to reach me - My email is: tonywu.fs@gmail.com
 
-<hr>
 <h2>Tony's Github Stats!</h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanukana&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
