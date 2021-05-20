@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tony
 - 👀 I’m interested in Web Development, specifically Fullstack!
 - 🌱 I’m currently learning HTML / CSS and Javascript.
-- 💞️ I’m looking to collaborate on Beginner Friendly Projects!
 - 📫 How to reach me - My email is: tonywu.fs@gmail.com
 
 <h2>My Stats!</h2>
