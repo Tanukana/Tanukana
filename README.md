@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tony
-- 👀 I’m interested in Web Development, specifically Fullstack!
-- 🌱 I’m currently learning HTML / CSS and Javascript.
+- 👋 Hi, I’m Tony an aspiring Full-Stack developer located in the PNW
+- 👀 I’m interested in Web Development and am so far loving my learning experience!
+- 🌱 I’m currently making my way through The Odin Project (Front-End Focused)
 - 📫 How to reach me - My email is: tonywu.fs@gmail.com
 
 <h2>My Stats!</h2>
